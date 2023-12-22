@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "469628615622",
+    "project_id": "uas-resa-a6191",
+    "storage_bucket": "uas-resa-a6191.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469628615622:android:eb626b139dfa215c4d10c7",
+        "android_client_info": {
+          "package_name": "com.example.uas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfzj321KjrhO6j9SX8nEcM1Xee9UYXqJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

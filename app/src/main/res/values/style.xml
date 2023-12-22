@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Gaya untuk teks tab -->
+    <style name="TabLayoutTextAppearance" parent="TextAppearance.Design.Tab">
+        <item name="fontFamily">@font/poppins_bold</item>
+        <!-- Tambahan atribut gaya teks lainnya jika diperlukan -->
+    </style>
+
+
+</resources>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style name="TabLayoutTextAppearance" parent="TextAppearance.Design.Tab">
+    <item name="fontFamily">@font/poppinsbold</item>
+</style>
